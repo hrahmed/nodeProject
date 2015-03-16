@@ -1,0 +1,17 @@
+{
+  "name": "nodeProject",
+  "version": "0.1.0",
+  "description": "new node project using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Library",
+    "Node",
+    "Does",
+    "Stuff"
+  ],
+  "author": "Haroon Ahmed",
+  "license": "Apache 2.0"
+}
